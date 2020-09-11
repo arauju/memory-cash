@@ -1,0 +1,81 @@
+Resultados da Cache Do Tharles 
+para uma configuracao de 32 blocos, e para cada bloco 1 palavra(s): 
+miss: 539124 
+hit: 512520 
+=====================================
+
+para uma configuracao de 32 blocos, e para cada bloco 2 palavra(s): 
+miss: 305786 
+hit: 745858 
+=====================================
+
+para uma configuracao de 32 blocos, e para cada bloco 4 palavra(s): 
+miss: 232485 
+hit: 819159 
+=====================================
+
+para uma configuracao de 32 blocos, e para cada bloco 8 palavra(s): 
+miss: 281792 
+hit: 769852 
+=====================================
+
+para uma configuracao de 64 blocos, e para cada bloco 1 palavra(s): 
+miss: 528017 
+hit: 523627 
+=====================================
+
+para uma configuracao de 64 blocos, e para cada bloco 2 palavra(s): 
+miss: 280328 
+hit: 771316 
+=====================================
+
+para uma configuracao de 64 blocos, e para cada bloco 4 palavra(s): 
+miss: 175838 
+hit: 875806 
+=====================================
+
+para uma configuracao de 64 blocos, e para cada bloco 8 palavra(s): 
+miss: 162327 
+hit: 889317 
+=====================================
+
+para uma configuracao de 128 blocos, e para cada bloco 1 palavra(s): 
+miss: 511836 
+hit: 539808 
+=====================================
+
+para uma configuracao de 128 blocos, e para cada bloco 2 palavra(s): 
+miss: 262692 
+hit: 788952 
+=====================================
+
+para uma configuracao de 128 blocos, e para cada bloco 4 palavra(s): 
+miss: 146137 
+hit: 905507 
+=====================================
+
+para uma configuracao de 128 blocos, e para cada bloco 8 palavra(s): 
+miss: 103815 
+hit: 947829 
+=====================================
+
+para uma configuracao de 256 blocos, e para cada bloco 1 palavra(s): 
+miss: 460885 
+hit: 590759 
+=====================================
+
+para uma configuracao de 256 blocos, e para cada bloco 2 palavra(s): 
+miss: 232896 
+hit: 818748 
+=====================================
+
+para uma configuracao de 256 blocos, e para cada bloco 4 palavra(s): 
+miss: 121752 
+hit: 929892 
+=====================================
+
+para uma configuracao de 256 blocos, e para cada bloco 8 palavra(s): 
+miss: 71874 
+hit: 979770 
+=====================================
+
